@@ -160,7 +160,7 @@ button {
     text-align: center;
     padding: 100px 0;
     background: linear-gradient(180deg, rgba(255, 0, 0, 0.10) 0%, rgba(255, 0, 0, 0.00) 100%);
-    margin-bottom: 100px;
+    margin-bottom: 80px;
 
 }
 
@@ -188,11 +188,10 @@ button {
 .main-item6 {
     width: 80%;
     max-width: 1320px;
-    height: 1000px;
+    height: 1120px;
     margin: 0 auto;
     background: #FFF;
     padding: 80px 0;
-    margin-bottom: 120px;
 }
 
 .item6-cont {
@@ -200,6 +199,7 @@ button {
     align-items: center;
     margin-top: 48px;
     gap: 24px;
+    margin-bottom: 120px;
 }
 
 .item6-cont img {
@@ -250,6 +250,7 @@ button {
     text-align: center;
     padding: 80px 0;
     margin-bottom: 120px;
+    margin-top: 120px;
 }
 
 .item7-heading {
